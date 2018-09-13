@@ -1,2 +1,2 @@
-Name: Chan Tin Hang
-Student ID: 20446494
+Chan Tin Hang
+20446494
